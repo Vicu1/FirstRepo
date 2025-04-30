@@ -1,1 +1,1 @@
-titlu, descriere, scop.
+titlu, descriere, scop. changes
